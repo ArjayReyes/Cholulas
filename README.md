@@ -10,7 +10,8 @@
 
 **Dedicated Architecture**: 
 * Waterfall Model - since we’re building a project from the ground up, the waterfall model lets us be flexible and is a simple model for us to follow.
-* Web Application Architecture - For our project, we chose to use a Model-View-Presenter (MVP) architecture Since most of the website lacks any user input other than the login function, MVP is appropriate, especially for the news posting module.
+* Client-Server Architecture - since we have users accessing the website for information about Williamston, Michigan, a client-server architecture is suited for our needs.
+
 
 
 **Requirements**: 
